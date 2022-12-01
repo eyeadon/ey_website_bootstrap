@@ -1,0 +1,186 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>American Hip Hop Dance - Contact</title>
+<link href="styles.css" rel="stylesheet" type="text/css" />
+<script src="_js/jquery-1.7.2.min.js"></script>
+<script src="_js/nav1.1.min.js"></script>
+<script>
+$(document).ready(function() {
+ $("#navigation").navPlugin({
+   'itemWidth': 130,
+   'itemHeight': 30,
+   'navEffect': "slide",
+   'speed': 250
+ });
+}); // end ready
+</script>
+<style type="text/css"> 
+form#order div, form#signup div{
+	padding-bottom: 10px;	
+}
+
+form#order .label, form#signup .label {
+	display: block;
+	clear: left;
+	float: left;
+	width: 300px;
+	text-align: right;
+	padding: 7px 15px 0 0;
+	text-transform: uppercase;	
+	font-weight: bold;
+}
+
+form#signup .label {
+	width: 300px;	
+}
+
+.labelBlock {
+	text-transform: uppercase;
+	font-weight: bold;	
+	display: block;
+	padding-bottom: 0 !important;
+	clear: both;
+	margin-top: 10px;
+}
+
+form#order select, form#signup select {
+	display: inline-block;
+	margin-top: 8px;	
+}
+
+form#order input[type="radio"], form#signup input[type="radio"], form#signup input[type="checkbox"] {
+   display: inline-block;
+   margin-top: 10px;	
+}
+
+form .indent, #submit {
+	margin-left: 320px;	
+}
+#console label {
+	float: left;
+	width: 100px;
+}
+#signup .indent label.error {
+  margin-left: 0;
+}
+#signup label.error {
+  font-size: 0.8em;
+  color: #F00;
+  font-weight: bold;
+  display: block;
+  margin-left: 215px;
+}
+#signup  input.error, #signup select.error  {
+  background: #FFA9B8;
+  border: 1px solid red;
+}
+</style>
+<script src="_js/jquery.validate.min.js"></script>
+<script>
+$(document).ready(function() {
+ $("#navigation").navPlugin({
+   'itemWidth': 130,
+   'itemHeight': 30,
+   'navEffect': "slide",
+   'speed': 250
+ });
+ $('#signup').validate({
+		rules: {
+			email: {
+				required: true,
+				email: true
+			}
+		}, // end rules
+		messages: {
+			email: {
+				required: "Please supply your email address.",
+				email: "This is not a valid e-mail address."
+			}
+		}, // end messages
+		errorPlacement: function(error, element) { 
+       		if ( element.is(":checkbox")) {
+          		error.appendTo( element.parent()); 
+        	} else {
+          		error.insertAfter(element);
+        	} 
+    	} //end errorPlacement 
+	}); //end validate
+}); // end ready
+</script>
+</head>
+
+<body class="twoCol">
+
+<div><img id="background" src="images/DSCN2385.jpg"/>
+  <div id="container">
+    
+    <div id="header">
+    <h1>American Hip Hop Dance</h1>
+    	<ul id="navigation">
+        	<li><a href="index.html">Home</a></li>
+            <li><a href="turf1.html">Turf</a>
+            	<ul>
+                <li><a href="turf_history.html">History</a></li>
+                <li><a href="turf1.html">Dance Steps</a></li>
+                </ul>
+            </li>
+            
+            <li><a href="krump1.html">Krump</a>
+            	<ul>
+                <li><a href="krump_history.html">History</a></li>
+                <li><a href="krump1.html">Dance Steps</a></li>
+                </ul>
+            </li>
+            <li><a href="jerk1.html">Jerk</a>
+            	<ul>
+                <li><a href="jerk_history.html">History</a></li>
+                <li><a href="jerk1.html">Dance Steps</a></li>
+                </ul>
+            </li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    <!-- end #header --></div>
+<div id="sidebar1">
+  <h3>&nbsp;</h3>
+  <!-- end #sidebar1 -->
+</div>
+  <div id="mainContent" style="background-image: url(images/transback.png)">
+    <h2>Contact</h2>
+    <form action="process.html" method="post" name="signup" id="signup">
+      <div>
+        <label for="name" class="label">Name </label>
+        <input name="name" type="text" class="required" id="name" title="Please type your name.">
+        </div>
+      <div>
+        <label for="email" class="label">E-mail Address</label>
+        <input name="email" type="text" id="email">
+        </div>
+      <div><span class="label">Which dance(s) did you like?</span>
+        <input name="dance" type="checkbox" id="turf" value="turf">
+        <label for="turf">Turf</label>
+        <input name="dance" type="checkbox" id="krump" value="krump">
+        <label for="krump">Krump</label>
+        <input name="dance" type="checkbox" id="jerk" value="jerk">
+        <label for="jerk">Jerk</label>
+        </div>
+      <div>
+        <label for="comments" class="label">Comments</label>
+        <textarea name="comments" cols="15" rows="5" id="comments"></textarea>
+        </div>
+      <div>
+        <input type="submit" name="submit" id="submit" value="Submit">
+        </div>
+      </form>
+    <p>My Email: <a href="mailto:eyeadon40@gmail.com">eyeadon40@gmail.com</a></p>    
+    <!-- end #mainContent -->
+</div>
+  <br class="clearfloat" />
+  <div id="footer">
+  <p align="center"><a href="index.html">Home</a> | <a href="turf1.html">Turf</a> | <a href="krump1.html">Krump</a> | <a href="jerk1.html">Jerk</a> | <a href="contact.html">Contact</a></p>
+  <!-- end #footer --></div>
+<!-- end #container --></div>
+<!-- end #background --></div>
+</body>
+</html>

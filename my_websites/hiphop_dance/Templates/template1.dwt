@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../styles.css" rel="stylesheet" type="text/css" />
+<script src="../_js/jquery-1.7.2.min.js"></script>
+<script src="../_js/nav1.1.min.js"></script>
+<script>
+$(document).ready(function() {
+ $("#navigation").navPlugin({
+   'itemWidth': 130,
+   'itemHeight': 30,
+   'navEffect': "slide",
+   'speed': 250
+ });
+}); // end ready
+</script>
+<!-- TemplateBeginEditable name="head" -->
+
+<!-- TemplateEndEditable -->
+</head>
+
+<body class="twoCol">
+
+<div><!-- TemplateBeginEditable name="background" --><img id="background" src="../images/blockinoakland.jpeg"/><!-- TemplateEndEditable -->
+  <div id="container">
+
+  <div id="header">
+    <h1>American Hip Hop Dance</h1>
+    	<ul id="navigation">
+        	<li><a href="index.html">Home</a></li>
+            <li><a href="turf1.html">Turf</a>
+            	<ul>
+                <li><a href="turf_history.html">History</a></li>
+                <li><a href="turf1.html">Dance Steps</a></li>
+                </ul>
+            </li>
+            
+            <li><a href="krump1.html">Krump</a>
+            	<ul>
+                <li><a href="krump_history.html">History</a></li>
+                <li><a href="krump1.html">Dance Steps</a></li>
+                </ul>
+            </li>
+            <li><a href="jerk1.html">Jerk</a>
+            	<ul>
+                <li><a href="jerk_history.html">History</a></li>
+                <li><a href="jerk1.html">Dance Steps</a></li>
+                </ul>
+            </li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    <!-- end #header --></div>
+    <!-- TemplateBeginEditable name="MainContent" -->
+  <div id="mainContent">
+    <h2> Main Content </h2>
+    <!-- end #mainContent -->
+  </div>
+  <!-- TemplateEndEditable -->
+  <!-- TemplateBeginEditable name="sidebar1" -->
+  <div id="sidebar1">
+    <h3>sidebar1 Content</h3>
+    <!-- end #sidebar1 -->
+  </div>
+  <!-- TemplateEndEditable -->
+    
+  <br class="clearfloat" />
+  <div id="footer">
+  <p align="center"><a href="../index.html">Home</a> | <a href="../turf1.html">Turf</a> | <a href="../krump1.html">Krump</a> | <a href="../jerk1.html">Jerk</a> | <a href="../contact.html">Contact</a></p>
+  <!-- end #footer --></div>
+<!-- end #container --></div>
+<!-- end #background --></div>
+</body>
+</html>
