@@ -7,21 +7,26 @@
 <script src="<?php echo $upOutOfFolder; ?>js/bootstrap.min.js"></script>
 <script src="<?php echo $upOutOfFolder; ?>activeState.js"></script>
 <script>  
-  function setFooterStyle() {
-  var docHeight = $(window).height();
-  var footerHeight = $('#footer').outerHeight();
-  var footerTop = $('#footer').position().top + footerHeight;
-
-  if (footerTop < docHeight) {
-      $('#footer').css('margin-top', (docHeight - footerTop) + 'px');
-  } else {
-      $('#footer').css('margin-top', '0');
-  }
-  $('#footer').removeClass('invisible');
-  }
-    
   $(document).ready(function() {
-    setFooterStyle();
+    function setFooterStyle() {
+      var docHeight = $(window).height();
+      var footerHeight = $('#footer').outerHeight();
+      var footerTop = $('#footer').position().top + footerHeight;
+      var marginTop = (docHeight - footerTop);
+
+      if (footerTop < docHeight) {
+          $('#footer').css('margin-top', marginTop + 'px');
+      } else {
+          $('#footer').css('margin-top', '0');
+      }
+      $('#footer').removeClass('invisible');
+
+      // console.log("docheight: " + docHeight + "\n" + "footerheight: " + footerHeight + "\n" + 
+        // "footertop: " + footerTop + "\n" + "new docheight: " + $(window).height() + "\n" + "margintop: " + marginTop);
+    }
+
+    setInterval(setFooterStyle, 250);
+
     window.onresize = setFooterStyle;
   });
 </script>
