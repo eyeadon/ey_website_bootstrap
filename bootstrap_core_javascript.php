@@ -26,7 +26,7 @@
 
   $(document).ready(function() {
     setFooterStyle();
-    setInterval(setFooterStyle, 250);
+    setTimeout(setFooterStyle, 250);
 
     window.onresize = setFooterStyle;
   });
