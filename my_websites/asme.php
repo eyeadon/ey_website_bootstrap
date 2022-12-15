@@ -72,7 +72,7 @@
     
     <nav aria-label="" class="bottomPadding">
       <ul class="pager">
-        <li><a href="wmcc.php"><span aria-hidden="true">&larr;</span> Previous Project</a></li>
+        <li><a href="scontz_thompson.php"><span aria-hidden="true">&larr;</span> Previous Project</a></li>
         <li><a href="parentlab.php">Next Project <span aria-hidden="true">&rarr;</span></a></li>
       </ul>
     </nav>

@@ -80,8 +80,8 @@
     
     <nav aria-label="" class="bottomPadding">
       <ul class="pager">
-        <li><a href="umass_pbs.php"><span aria-hidden="true">&larr;</span> Previous Project</a></li>
-        <li><a href="cyclepottery.php">Next Project <span aria-hidden="true">&rarr;</span></a></li>
+        <li><a href="cyclepottery.php"><span aria-hidden="true">&larr;</span> Previous Project</a></li>
+        <li><a href="asme.php">Next Project <span aria-hidden="true">&rarr;</span></a></li>
       </ul>
     </nav>
 <!-- End Main Content -->

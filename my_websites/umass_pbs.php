@@ -15,22 +15,22 @@
       <div class="pull-right">
         <ol class="breadcrumb">
   	      <li><a href="../my_websites.php">Web Development</a></li>
-  	      <li class="active">Western MA Climbers Coalition</li>
+  	      <li class="active">UMass Amherst Psychological and Brain Sciences</li>
         </ol>
       </div>
     </div> <!-- /container -->
 
     <div class="container">
     
-<div id="carousel-wmcc" class="carousel slide carousel-fade" data-ride="carousel" data-interval="false" data-keyboard="true">
+<div id="carousel-umass" class="carousel slide carousel-fade" data-ride="carousel" data-interval="false" data-keyboard="true">
   <!-- Indicators -->
   <ol class="carousel-indicators">
-    <li data-target="#carousel-wmcc" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-wmcc" data-slide-to="1"></li>
-    <li data-target="#carousel-wmcc" data-slide-to="2"></li>
-    <li data-target="#carousel-wmcc" data-slide-to="3"></li>
-    <li data-target="#carousel-wmcc" data-slide-to="4"></li>
-    <li data-target="#carousel-wmcc" data-slide-to="5"></li>
+    <li data-target="#carousel-umass" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-umass" data-slide-to="1"></li>
+    <li data-target="#carousel-umass" data-slide-to="2"></li>
+    <li data-target="#carousel-umass" data-slide-to="3"></li>
+    <li data-target="#carousel-umass" data-slide-to="4"></li>
+    <li data-target="#carousel-umass" data-slide-to="5"></li>
   </ol>
 
   <!-- Wrapper for slides -->
@@ -56,11 +56,11 @@
   </div>
 
   <!-- Controls -->
-  <a class="left carousel-control" href="#carousel-wmcc" role="button" data-slide="prev">
+  <a class="left carousel-control" href="#carousel-umass" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#carousel-wmcc" role="button" data-slide="next">
+  <a class="right carousel-control" href="#carousel-umass" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
@@ -71,8 +71,8 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-          <h2>Western MA Climbers Coalition</h2>
-          <p><a class="btn btn-primary" href="http://www.climbgneiss.org/" role="button" target="_blank">View Website &raquo;</a></p>
+          <h2>UMass Amherst<br />Dept. of Psychological and Brain Sciences</h2>
+          <p><a class="btn btn-primary" href="https://www.pbs.umass.edu/about/newsletters/spring-2022-newsletter" role="button" target="_blank">View Website &raquo;</a></p>
           <p>Role: Web Design and Development</p>
         </div>
       </div>
@@ -80,8 +80,7 @@
     
     <nav aria-label="" class="bottomPadding">
       <ul class="pager">
-        <li><a href="umass_pbs.php"><span aria-hidden="true">&larr;</span> Previous Project</a></li>
-        <li><a href="cyclepottery.php">Next Project <span aria-hidden="true">&rarr;</span></a></li>
+        <li><a href="wmcc.php">Next Project <span aria-hidden="true">&rarr;</span></a></li>
       </ul>
     </nav>
 <!-- End Main Content -->
