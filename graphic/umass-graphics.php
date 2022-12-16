@@ -64,8 +64,8 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-    		  <h2>Dept. of Psychological and Brain Sciences</h2>
-          <h3>Homecoming Open House Promos, Clinical Psychology Event Promos</h3>
+          <h2 style="color:#002554;">Dept. of Psychological and Brain Sciences Communications</h2>
+          <h2>Homecoming Open House Promos, Clinical Psychology Event Promos</h2>
           <h3>Role: Graphic Designer</h3>
           <p></p>
         </div>
@@ -109,7 +109,7 @@
 <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-          <h3>Department Trifold Brochure</h3>
+          <h2>Department Trifold Brochure</h2>
         </div>
       </div>
     </div> <!-- /container -->

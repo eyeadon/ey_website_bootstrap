@@ -63,8 +63,8 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-          <h2>Dept. of Psychological and Brain Sciences</h2>
-          <h3>Newsletter Microsites, Interior Pages, and Views</h3>
+          <h2 style="color:#002554;">Dept. of Psychological and Brain Sciences Communications</h2>
+          <h2>Newsletter Microsites, Website Page Layouts and Views</h2>
           <h3>Role: Web Design and Development</h3>
           <p><a class="btn btn-primary" href="https://www.pbs.umass.edu/about/newsletters/spring-2022-newsletter" role="button" target="_blank">View Website &raquo;</a></p>
         </div>
