@@ -17,7 +17,13 @@
 $name = "Evan";
 $Evan = "myEvan";
 
-echo "This is the value of the var named $name: {${$name}}";
+$no_variable;
+
+echo "This is the value of the var named $name: {${$name}}\n";
+echo "hello\n";
+
+echo $no_variable;
+echo empty($no_variable);
 
 
 ?>

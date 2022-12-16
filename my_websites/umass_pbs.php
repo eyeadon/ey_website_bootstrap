@@ -29,29 +29,21 @@
     <li data-target="#carousel-umass" data-slide-to="1"></li>
     <li data-target="#carousel-umass" data-slide-to="2"></li>
     <li data-target="#carousel-umass" data-slide-to="3"></li>
-    <li data-target="#carousel-umass" data-slide-to="4"></li>
-    <li data-target="#carousel-umass" data-slide-to="5"></li>
   </ol>
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img class="imageBorder" src="wmcc1.png" alt="">
+      <img class="imageBorder" src="umass-newsletter1.png" alt="">
     </div>
     <div class="item">
-      <img class="imageBorder" src="wmcc2.png" alt="">
+      <img class="imageBorder" src="umass-newsletter2.png" alt="">
     </div>
     <div class="item">
-      <img class="imageBorder" src="wmcc3.png" alt="">
+      <img class="imageBorder" src="umass-tweet-blitz.png" alt="">
     </div>
     <div class="item">
-      <img class="imageBorder" src="wmcc4.png" alt="">
-    </div>
-    <div class="item">
-      <img class="imageBorder" src="wmcc5.png" alt="">
-    </div>
-    <div class="item">
-      <img class="imageBorder" src="wmcc6.png" alt="">
+      <img class="imageBorder" src="umass-about-page.png" alt="">
     </div>
   </div>
 

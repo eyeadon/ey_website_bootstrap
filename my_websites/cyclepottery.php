@@ -64,7 +64,6 @@
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
           <h2>CyclePottery</h2>
-          <p><a class="btn btn-primary" href="http://www.cyclepottery.com/" role="button" target="_blank">View Website &raquo;</a></p>
           <p>Role: Web Design and Development</p>
           <p>Completed redesigned WordPress website in conjunction with Midnightson Designs. Collaborated with CyclePottery to produce content for their site. Created page layouts, photo galleries and Woocommerce shop. Enhanced the brand image of CyclePottery by staging specific photo shoots. Provided instruction to the client on creating blog posts and uploading photos. Improved functionality and fixed problem issues during construction of redesign.</p>
         </div>
