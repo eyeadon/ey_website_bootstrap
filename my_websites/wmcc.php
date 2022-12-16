@@ -10,12 +10,12 @@
 <!-- Main Content -->
 <div class="container">
       <div class="pull-left">
-        <h1>Web Development</h1>
+        <h1>Western MA Climbers Coalition</h1>
       </div>
       <div class="pull-right">
         <ol class="breadcrumb">
   	      <li><a href="../my_websites.php">Web Development</a></li>
-  	      <li class="active">Western MA Climbers Coalition</li>
+  	      <li class="active">WMCC</li>
         </ol>
       </div>
     </div> <!-- /container -->
@@ -71,9 +71,8 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-          <h2>Western MA Climbers Coalition</h2>
+          <h4>Role: Web Design and Development</h4>
           <p><a class="btn btn-primary" href="http://www.climbgneiss.org/" role="button" target="_blank">View Website &raquo;</a></p>
-          <p>Role: Web Design and Development</p>
         </div>
       </div>
     </div> <!-- /container -->

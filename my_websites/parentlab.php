@@ -10,7 +10,7 @@
 <!-- Main Content -->
 <div class="container">
       <div class="pull-left">
-        <h1>Web Development</h1>
+        <h1>Parent Chemistry Lab</h1>
       </div>
       <div class="pull-right">
         <ol class="breadcrumb">
@@ -67,9 +67,8 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-          <h2>Parent Chemistry Lab</h2>
+          <h4>Role: Web Design and Development</h4>
           <p><a class="btn btn-primary" href="http://www.parentchemlab.org/" role="button" target="_blank">View Website &raquo;</a></p>
-          <p>Role: Web Design and Development</p>
         </div>
       </div>
     </div> <!-- /container -->

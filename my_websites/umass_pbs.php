@@ -63,9 +63,9 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-          <h2>UMass Amherst<br />Dept. of Psychological and Brain Sciences</h2>
+          <h2>Dept. of Psychological and Brain Sciences</h2>
+          <h4>Role: Web Design/Development of Newsletter Microsites, Interior Pages, and Views</h4>
           <p><a class="btn btn-primary" href="https://www.pbs.umass.edu/about/newsletters/spring-2022-newsletter" role="button" target="_blank">View Website &raquo;</a></p>
-          <p>Role: Web Design/Development of Newsletter Microsites, Interior Pages, and Views</p>
         </div>
       </div>
     </div> <!-- /container -->

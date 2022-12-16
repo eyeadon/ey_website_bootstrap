@@ -10,12 +10,12 @@
 <!-- Main Content -->
 <div class="container">
       <div class="pull-left">
-        <h1>Web Development</h1>
+        <h1>ASME Journal of Mechanisms and Robotics</h1>
       </div>
       <div class="pull-right">
         <ol class="breadcrumb">
   	      <li><a href="../my_websites.php">Web Development</a></li>
-  	      <li class="active">ASME Journal of Mechanisms and Robotics</li>
+  	      <li class="active">ASME</li>
         </ol>
       </div>
     </div> <!-- /container -->
@@ -63,8 +63,8 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-          <h2>ASME Journal of Mechanisms and Robotics</h2>
-          <p>Role: Web Design and Development</p>
+          <h4>Role: Web Design and Development</h4>
+          <p></p>
         </div>
       </div>
     </div> <!-- /container -->
