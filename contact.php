@@ -12,7 +12,7 @@
 		  <p>For questions, quotes, or samples please contact:</p>
 		  <strong><p>Evan Yeadon</p></strong>
 		  <p>Tel. 617-838-8646</p>
-		  <p>info@evanyeadon.com</p>
+		  <p>eyeadon40@gmail.com</p>
 		  <!-- <p><a href="#" target="_blank">My R&eacute;sum&eacute;</a></p> -->
         </div>    
         <div class="col-md-3">

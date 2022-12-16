@@ -6809,6 +6809,9 @@ button.close {
 .imageBorder {
   border:2px solid #CCC;
 }
+.imageBorderWhite {
+  border:2px solid #FFF;
+}
 .jumbotron {
   background-color: #eee;
   background-image:url(../images/watercolor_light.jpg);

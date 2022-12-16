@@ -37,10 +37,10 @@
         <img class="imageBorder" src="umass-oh-poster.png" alt="">
       </div>
       <div class="item">
-        <img src="umass-oh-social-post.png" alt="">
+        <img class="imageBorderWhite" src="umass-oh-social-post.png" alt="">
       </div>
       <div class="item">
-        <img src="umass-postcard-combo.png" alt="">
+        <img class="imageBorderWhite" src="umass-postcard-combo.png" alt="">
       </div>
       <div class="item">
         <img class="imageBorder" src="umass-clinical-event-flyer.png" alt="">
