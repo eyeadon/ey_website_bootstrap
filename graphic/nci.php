@@ -10,12 +10,12 @@
 <!-- Main Content -->
 <div class="container">
       <div class="pull-left">
-        <h1>Graphic Design</h1>
+        <h1>Nevada Cancer Institute</h1>
       </div>
       <div class="pull-right">
         <ol class="breadcrumb">
   	      <li><a href="../graphic.php">Graphic Design</a></li>
-  	      <li class="active">Nevada Cancer Institute</li>
+  	      <li class="active">NCI</li>
         </ol>
       </div>
     </div> <!-- /container -->
@@ -63,9 +63,8 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-6">
-          <h2>Nevada Cancer Institute</h2>
-		  <h4>Employee Benefits Guide, Benefits Stationary and Highlights Pamphlet</h4>
-          <p>Role: Graphic Designer</p>
+    		  <h2>Employee Benefits Guide, Benefits Stationary and Highlights Pamphlet</h2>
+          <h3>Role: Graphic Designer</h3>
           <p>Objective: Collect graphic elements from past communications and build a complete identity for the Nevada Cancer Institute Benefits Department. Use sunflower images and uplifting color scheme. Select dynamic employee photos and add to the Employee Benefits Guide. Increase employee benefits enrollment, health program participation, and overall healthcare education.</p>
         </div>
         <div class="col-md-6">

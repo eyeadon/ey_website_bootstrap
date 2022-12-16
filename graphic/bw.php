@@ -10,7 +10,7 @@
 <!-- Main Content -->
 <div class="container">
       <div class="pull-left">
-        <h1>Graphic Design</h1>
+        <h1>Beyond Words Jewelry</h1>
       </div>
       <div class="pull-right">
         <ol class="breadcrumb">
@@ -29,10 +29,8 @@
       </div>
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-          <h2>Beyond Words Jewelry</h2>
-		  <h4>Trade Show Exhibit Design including Vinyl Banner, Signage and Digital Illustrations</h4>
-          <h4>Logo Design</h4>
-          <p>Role: Graphic Designer</p>
+    		  <h2>Trade Show Exhibit Design including Logo Design, Vinyl Banner, Signage, and Digital Illustrations</h2>
+          <h3>Role: Graphic Designer</h3>
         </div>
       </div>
     </div> <!-- /container -->

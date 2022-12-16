@@ -10,7 +10,7 @@
 <!-- Main Content -->
 <div class="container">
       <div class="pull-left">
-        <h1>Graphic Design</h1>
+        <h1>Tommy Bahama</h1>
       </div>
       <div class="pull-right">
         <ol class="breadcrumb">
@@ -59,9 +59,8 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-6">
-          <h2>Tommy Bahama</h2>
-		  <h4>Benefits Highlights Brochure, Enrollment Letter and Booklet Envelope</h4>
-          <p>Role: Graphic Designer</p>
+    		  <h2>Benefits Highlights Brochure, Enrollment Letter, and Booklet Envelope</h2>
+          <h3>Role: Graphic Designer</h3>
           <p>Objective: Design communications for Tommy Bahama employees that reflect the style and themes of their brand. Make certain that brand guidelines are adhered to. Increase employee benefits enrollment, health program participation, and overall healthcare education.</p>
         </div>
         <div class="col-md-6">

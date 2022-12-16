@@ -10,12 +10,12 @@
 <!-- Main Content -->
 <div class="container">
       <div class="pull-left">
-        <h1>Graphic Design</h1>
+        <h1>McGriff, Seibels & Williams, Inc.</h1>
       </div>
       <div class="pull-right">
         <ol class="breadcrumb">
   	      <li><a href="../graphic.php">Graphic Design</a></li>
-  	      <li class="active">McGriff, Seibels & Williams, Inc.</li>
+  	      <li class="active">MSW</li>
         </ol>
       </div>
     </div> <!-- /container -->
@@ -59,9 +59,8 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-          <h2>McGriff, Seibels & Williams, Inc.</h2>
-		  <h4>Marketing Brochure</h4>
-          <p>Role: Graphic Designer</p>
+    		  <h2>Marketing Brochure</h2>
+          <h3>Role: Graphic Designer</h3>
           <p>Objective: Expand the brand identity of McGriff, Seibels & Williams, Inc. Define the final version of the MSW logo. Convey the core values and mission statement of MSW by creating a marketing brochure. Describe the services they offer with elegant design and clever photography.</p>
         </div>
       </div>

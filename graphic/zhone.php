@@ -10,12 +10,12 @@
 <!-- Main Content -->
 <div class="container">
       <div class="pull-left">
-        <h1>Graphic Design</h1>
+        <h1>Zhone Technologies</h1>
       </div>
       <div class="pull-right">
         <ol class="breadcrumb">
   	      <li><a href="../graphic.php">Graphic Design</a></li>
-  	      <li class="active">Zhone Technologies</li>
+  	      <li class="active">Zhone</li>
         </ol>
       </div>
     </div> <!-- /container -->
@@ -59,9 +59,8 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-          <h2>Zhone Technologies</h2>
-		  <h4>Using Your 2007 Benefits Brochure, Benefits Update Newsletter, Poster</h4>
-          <p>Role: Graphic Designer</p>
+    		  <h2>Using Your 2007 Benefits Brochure, Benefits Update Newsletter, Poster</h2>
+          <h3>Role: Graphic Designer</h3>
           <p>Objective: Design a complete identity for the Zhone Technologies Benefits Department. Utilize graphic elements from the Zhone logo in brochure and masthead designs. Produce an identity that employees can easily associate with healthcare. Use the Zhone identity to create a cohesive set of communications. Increase employee benefits enrollment, health program participation, and overall healthcare education.</p>
         </div>
       </div>
