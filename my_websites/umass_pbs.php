@@ -10,12 +10,12 @@
 <!-- Main Content -->
 <div class="container">
       <div class="pull-left">
-        <h1>Web Development</h1>
+        <h1>UMass Amherst</h1>
       </div>
       <div class="pull-right">
         <ol class="breadcrumb">
   	      <li><a href="../my_websites.php">Web Development</a></li>
-  	      <li class="active">UMass Amherst Psychological and Brain Sciences</li>
+  	      <li class="active">UMass Amherst</li>
         </ol>
       </div>
     </div> <!-- /container -->
@@ -65,7 +65,7 @@
         <div class="col-md-8 col-md-offset-2">
           <h2>UMass Amherst<br />Dept. of Psychological and Brain Sciences</h2>
           <p><a class="btn btn-primary" href="https://www.pbs.umass.edu/about/newsletters/spring-2022-newsletter" role="button" target="_blank">View Website &raquo;</a></p>
-          <p>Role: Web Design and Development</p>
+          <p>Role: Web Design/Development of Newsletter Microsites, Interior Pages, and Views</p>
         </div>
       </div>
     </div> <!-- /container -->

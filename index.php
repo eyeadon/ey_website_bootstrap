@@ -15,7 +15,7 @@
     <div class="container topMargin">
       <div class="row rowPadding">
         <div class="col-md-4">
-          <a href="my_websites.php"><img src="my_websites/cp_home.png" class="img-responsive img-rounded imageBorder" alt="Web Development"></a>
+          <a href="my_websites.php"><img src="my_websites/umass_home.png" class="img-responsive img-rounded imageBorder" alt="Web Development"></a>
           <h2>Web Development</h2>
           <p><a class="btn btn-default" href="my_websites.php" role="button">View &raquo;</a></p>
         </div>
