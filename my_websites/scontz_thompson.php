@@ -63,7 +63,7 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-          <h4>Role: Web Design and Development</h4>
+          <h3>Role: Web Design and Development</h3>
           <p><a class="btn btn-primary" href="https://scontzthompsonmusic.com" role="button" target="_blank">View Website &raquo;</a></p>
         </div>
       </div>

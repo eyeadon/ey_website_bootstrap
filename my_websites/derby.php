@@ -56,7 +56,7 @@
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
           <h2>University of Massachusetts, Introduction to DHTML Class Project</h2>
-          <h4>Role: Web Design and Development</h4>
+          <h3>Role: Web Design and Development</h3>
           <p><a class="btn btn-primary" href="roller_derby/index.html" role="button" target="_blank">View Website &raquo;</a></p>
 		  <p>Objective: Teach visitors of your web site about a personal hobby or interest. Include original graphics and photos. Use HTML and CSS for page layout, type styles and navigation.</p> 
 		  <p>I created New England Roller Derby to inform visitors about the history, game play and equipment of roller derby. It includes photos from a New England area bout and a schedule of future bouts. Links are provided for more information about rules, organizations and equipment.</p>
