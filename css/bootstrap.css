@@ -1264,7 +1264,7 @@ h6 .small,
 }
 h1,
 .h1 {
-  font-size: 36px;
+  font-size: 30px;
 }
 h2,
 .h2 {
@@ -1272,15 +1272,15 @@ h2,
 }
 h3,
 .h3 {
-  font-size: 22px;
+  font-size: 18px;
 }
 h4,
 .h4 {
-  font-size: 18px;
+  font-size: 14px;
 }
 h5,
 .h5 {
-  font-size: 14px;
+  font-size: 12px;
 }
 h6,
 .h6 {
@@ -6805,6 +6805,9 @@ button.close {
 }
 .topMargin {
   margin-top: 20px;
+}
+.topMargin-h1 {
+  margin-top: 30px;
 }
 .imageBorder {
   border:2px solid #CCC;
