@@ -59,14 +59,14 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-    		  <h2>Using Your 2007 Benefits Brochure, Benefits Update Newsletter, Poster</h2>
+    		  <h2>Using Your 2007 Benefits Brochure</h2>
           <h3>Role: Graphic Designer</h3>
           <p>Objective: Design a complete identity for the Zhone Technologies Benefits Department. Utilize graphic elements from the Zhone logo in brochure and masthead designs. Produce an identity that employees can easily associate with healthcare. Use the Zhone identity to create a cohesive set of communications. Increase employee benefits enrollment, health program participation, and overall healthcare education.</p>
         </div>
       </div>
     </div> <!-- /container -->
   
-    <div class="container topMargin">
+<div class="container topMargin">
     
 <div id="carousel-zhone2" class="carousel slide carousel-fade" data-ride="carousel" data-interval="false" data-keyboard="true">
   <!-- Indicators -->
@@ -100,10 +100,19 @@
   </a>
 </div>
 
-    </div> <!-- /container -->
+</div> <!-- /container -->
     
+    <div class="container">
+      <div class="row bottomPadding">
+        <div class="col-md-8 col-md-offset-2">
+    		  <h2>Benefits Update Newsletter and Poster</h2>
+        </div>
+      </div>
+    </div> <!-- /container -->
+
     <nav aria-label="" class="bottomPadding">
       <ul class="pager">
+        <li><a href="umass-graphics.php"><span aria-hidden="true">&larr;</span> Previous Project</a></li>
         <li><a href="sonic.php">Next Project <span aria-hidden="true">&rarr;</span></a></li>
       </ul>
     </nav>

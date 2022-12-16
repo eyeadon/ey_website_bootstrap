@@ -63,7 +63,7 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8">
-    		  <h2>2008 Sonic Benefits Blast! Newsletter, Tabloid Newsletter, Envelope</h2>
+    		  <h2>2008 Sonic Benefits Blast! Newsletter, Tabloid Newsletter, and Envelope</h2>
           <h3>Role: Graphic Designer</h3>
           <p>Objective: Communicate benefits choices to Sonic employees in a fun and energetic way. Utilize a Sonic menu motif throughout all communications. Ensure each page is filled with Sonic's unique iconography. Increase employee benefits enrollment, health program participation, and overall healthcare education.</p>
         </div>
