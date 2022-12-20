@@ -63,7 +63,9 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-          <h3>Role: Web Design and Development</h3>
+          <h2>Website Redesign and Build</h2>
+          <h3>Products: Responsive WordPress Website, WooCommerce Store</h3>
+          <h3>Role: Web Designer/Developer</h3>
           <p>Completed redesigned WordPress website in conjunction with Midnightson Designs. Collaborated with CyclePottery to produce content for their site. Created page layouts, photo galleries and Woocommerce shop. Enhanced the brand image of CyclePottery by staging specific photo shoots. Provided instruction to the client on creating blog posts and uploading photos. Improved functionality and fixed problem issues during construction of redesign.</p>
         </div>
       </div>

@@ -60,7 +60,8 @@
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
           <h2>University of Massachusetts, JavaScript Class Project</h2>
-          <h3>Role: Web Design and Development</h3>
+          <h3>Products: HTML/CSS/JavaScript Website</h3>
+          <h3>Role: Web Designer/Developer</h3>
           <p><a class="btn btn-primary" href="hiphop_dance/turf1.html" role="button" target="_blank">View Website &raquo;</a></p>
           <p>Objective: Research a subject of interest and build an educational web site. Incorporate JQuery functionality for a drop-down navigation bar, image gallery and contact form. Include original graphics and photos.</p>
           <p>I researched three derivative styles of Hip Hop dance. Turf from Oakland, CA, Krump and Jerk from Los Angeles, CA. Each dance is performed with aspects of visual storytelling, optical illusions and personal style. Several dance moves are illustrated in animated image galleries.</p>
