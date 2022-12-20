@@ -29,7 +29,8 @@
       </div>
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-    		  <h2>Trade Show Exhibit Design including Logo Design, Vinyl Banner, Signage, and Digital Illustrations</h2>
+    		  <h2>Trade Show Exhibit Design<h2>
+          <h3>Products: Logo Design, Vinyl Banner, Signage, and Digital Illustrations</h3>
           <h3>Role: Graphic Designer</h3>
         </div>
       </div>

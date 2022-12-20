@@ -63,7 +63,8 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-6">
-    		  <h2>Employee Benefits Guide, Benefits Stationary, and Highlights Pamphlet</h2>
+    		  <h2>Employee Benefits Communications</h2>
+          <h3>Products: Employee Benefits Guide, Benefits Stationary, and Highlights Pamphlet</h3>
           <h3>Role: Graphic Designer</h3>
           <p>Objective: Collect graphic elements from past communications and build a complete identity for the Nevada Cancer Institute Benefits Department. Use sunflower images and uplifting color scheme. Select dynamic employee photos and add to the Employee Benefits Guide. Increase employee benefits enrollment, health program participation, and overall healthcare education.</p>
         </div>

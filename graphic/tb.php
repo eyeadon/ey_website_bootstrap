@@ -59,7 +59,8 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-6">
-    		  <h2>Benefits Highlights Brochure, Enrollment Letter, and Booklet Envelope</h2>
+          <h2>Employee Benefits Communications</h2>
+    		  <h3>Products: Benefits Highlights Brochure, Enrollment Letter, and Booklet Envelope</h3>
           <h3>Role: Graphic Designer</h3>
           <p>Objective: Design communications for Tommy Bahama employees that reflect the style and themes of their brand. Make certain that brand guidelines are adhered to. Increase employee benefits enrollment, health program participation, and overall healthcare education.</p>
         </div>

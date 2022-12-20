@@ -59,7 +59,8 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-    		  <h2>Marketing Brochure</h2>
+    		  <h2>MSW Marketing Materials</h2>
+          <h3>Product: Brochure</h3>
           <h3>Role: Graphic Designer</h3>
           <p>Objective: Expand the brand identity of McGriff, Seibels & Williams, Inc. Define the final version of the MSW logo. Convey the core values and mission statement of MSW by creating a marketing brochure. Describe the services they offer with elegant design and clever photography.</p>
         </div>
