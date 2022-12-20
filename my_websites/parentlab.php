@@ -67,7 +67,7 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-          <h2>Website Build</h2>
+          <h2>Website Design and Build</h2>
           <h3>Products: Responsive WordPress Website</h3>
           <h3>Role: Web Designer/Developer</h3>
           <p><a class="btn btn-primary" href="http://www.parentchemlab.org/" role="button" target="_blank">View Website &raquo;</a></p>
