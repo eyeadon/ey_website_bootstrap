@@ -34,16 +34,16 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img class="imageBorder" src="umass-oh-poster.png" alt="">
+        <img class="imageBorder" src="umass-oh-poster.png" alt="poster, college students set up EEG cap on human subject to watch brain waves">
       </div>
       <div class="item">
-        <img class="imageBorderWhite" src="umass-oh-social-post.png" alt="">
+        <img class="imageBorderWhite" src="umass-oh-social-post.png" alt="social media post, student with EEG cap using computer">
       </div>
       <div class="item">
-        <img class="imageBorderWhite" src="umass-postcard-combo.png" alt="">
+        <img class="imageBorderWhite" src="umass-postcard-combo.png" alt="postcard with illustration of woman meditating and brain">
       </div>
       <div class="item">
-        <img class="imageBorder" src="umass-clinical-event-flyer.png" alt="">
+        <img class="imageBorder" src="umass-clinical-event-flyer.png" alt="poster, outlined figures hold hands">
       </div>
     </div>
 
@@ -85,10 +85,10 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
           <div class="item active">
-            <img class="imageBorder" src="umass_trifold_brochure1.png" alt="">
+            <img class="imageBorder" src="umass_trifold_brochure1.png" alt="trifold brochure, social media icons, photo of man with EEG cap">
           </div>
           <div class="item">
-            <img class="imageBorder" src="umass_trifold_brochure2.png" alt="">
+            <img class="imageBorder" src="umass_trifold_brochure2.png" alt="trifold brochure, photos of student playing wih child, student presenting research poster">
           </div>
         </div>
       

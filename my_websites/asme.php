@@ -34,16 +34,16 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img class="imageBorder" src="asme1.png" alt="">
+      <img class="imageBorder" src="asme1.png" alt="webpage layout showing grid of videos of robotics">
     </div>
     <div class="item">
-      <img class="imageBorder" src="asme2.png" alt="">
+      <img class="imageBorder" src="asme2.png" alt="webpage layout showing grid of videos of robotics">
     </div>
     <div class="item">
-      <img class="imageBorder" src="asme3.png" alt="">
+      <img class="imageBorder" src="asme3.png" alt="webpage showing post about robotic arms">
     </div>
     <div class="item">
-      <img class="imageBorder" src="asme4.png" alt="">
+      <img class="imageBorder" src="asme4.png" alt="webpage showing list of authors and nation flags">
     </div>
   </div>
 

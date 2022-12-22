@@ -33,13 +33,13 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img class="imageBorder" src="tb_brochure1.png" alt="">
+      <img class="imageBorder" src="tb_brochure1.png" alt="brochure cover showing tropical scenes of people on vacation">
     </div>
     <div class="item">
-      <img class="imageBorder" src="tb_brochure2.png" alt="">
+      <img class="imageBorder" src="tb_brochure2.png" alt="brochure showing table of contents, couple on a boat">
     </div>
     <div class="item">
-      <img class="imageBorder" src="tb_brochure3.png" alt="">
+      <img class="imageBorder" src="tb_brochure3.png" alt="brochure showing health benefit stats, fancy caribbean hotel room">
     </div>
   </div>
 
@@ -65,7 +65,7 @@
           <p>Objective: Design communications for Tommy Bahama employees that reflect the style and themes of their brand. Make certain that brand guidelines are adhered to. Increase employee benefits enrollment, health program participation, and overall healthcare education.</p>
         </div>
         <div class="col-md-6">
-        <img src="tb_letter.jpg" class="img-responsive topPadding" alt="tb_letter">
+        <img src="tb_letter.jpg" class="img-responsive topPadding" alt="letterhead and envelope with palm tree logo">
         </div>
       </div>
     </div> <!-- /container -->

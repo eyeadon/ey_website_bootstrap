@@ -10,40 +10,40 @@
       <div class="row rowPadding">
         <div class="col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8" style="text-align:center;">
           <a href="illustration/djgirl.png" class="fancybox" rel="group">
-          <img src="illustration/dj_thumb1.jpg" class="img-thumbnail">
+          <img src="illustration/dj_thumb1.jpg" class="img-thumbnail" alt="female DJ with turntables">
           </a>
           <a href="illustration/teamdj.gif" class="fancybox" rel="group">
-          <img src="illustration/dj_thumb2.jpg" class="img-thumbnail">
+          <img src="illustration/dj_thumb2.jpg" class="img-thumbnail" alt="simple outline logo of DJ">
           </a>
           <a href="illustration/jungle.gif" class="fancybox" rel="group">
-          <img src="illustration/dj_thumb3.jpg" class="img-thumbnail">
+          <img src="illustration/dj_thumb3.jpg" class="img-thumbnail" alt="jungle scene with bird and growing trees, vector illustration">
           </a>
           <a href="illustration/djcolor.jpg" class="fancybox" rel="group">
-          <img src="illustration/dj_thumb4.jpg" class="img-thumbnail">
+          <img src="illustration/dj_thumb4.jpg" class="img-thumbnail" alt="DJ in nightclub scene">
           </a>
           <a href="illustration/drummers.png" class="fancybox" rel="group">
-          <img src="illustration/vector_thumb1.jpg" class="img-thumbnail">
+          <img src="illustration/vector_thumb1.jpg" class="img-thumbnail" alt="three snare drummers play on football field">
           </a>
           <a href="illustration/work_life.jpg" class="fancybox" rel="group">
-          <img src="illustration/vector_thumb2.jpg" class="img-thumbnail">
+          <img src="illustration/vector_thumb2.jpg" class="img-thumbnail" alt="man juggles icons of home, money, briefcase">
           </a>
           <a href="illustration/excercise.jpg" class="fancybox" rel="group">
-          <img src="illustration/vector_thumb3.jpg" class="img-thumbnail">
+          <img src="illustration/vector_thumb3.jpg" class="img-thumbnail" alt="man runs past tree">
           </a>
           <a href="illustration/flower1.png" class="fancybox" rel="group">
-          <img src="illustration/flower_thumb1.jpg" class="img-thumbnail">
+          <img src="illustration/flower_thumb1.jpg" class="img-thumbnail" alt="vector illustration of spring flowers">
           </a>
           <a href="illustration/flower2.gif" class="fancybox" rel="group">
-          <img src="illustration/flower_thumb2.jpg" class="img-thumbnail">
+          <img src="illustration/flower_thumb2.jpg" class="img-thumbnail" alt="flower from a beach garden">
           </a>
           <a href="illustration/flower3.gif" class="fancybox" rel="group">
-          <img src="illustration/flower_thumb3.jpg" class="img-thumbnail">
+          <img src="illustration/flower_thumb3.jpg" class="img-thumbnail" alt="flower that looks like a sun with rays">
           </a>
           <a href="illustration/spacial.png" class="fancybox" rel="group">
-          <img src="illustration/spacial_thumb1.jpg" class="img-thumbnail">
+          <img src="illustration/spacial_thumb1.jpg" class="img-thumbnail" alt="geometric rectangles moving into vanishing point">
           </a>
           <a href="illustration/squares_b.png" class="fancybox" rel="group">
-          <img src="illustration/squares_thumb1.jpg" class="img-thumbnail">
+          <img src="illustration/squares_thumb1.jpg" class="img-thumbnail" alt="geometric composition">
           </a>
         </div>
       </div>

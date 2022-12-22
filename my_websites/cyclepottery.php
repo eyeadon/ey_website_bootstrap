@@ -34,16 +34,16 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img class="imageBorder" src="cp1.png" alt="">
+      <img class="imageBorder" src="cp1.png" alt="webpage layout with slideshow of kids making pottery">
     </div>
     <div class="item">
-      <img class="imageBorder" src="cp2.png" alt="">
+      <img class="imageBorder" src="cp2.png" alt="webpage layout showing photos of pottery studio and equipment">
     </div>
     <div class="item">
-      <img class="imageBorder" src="cp3.png" alt="">
+      <img class="imageBorder" src="cp3.png" alt="bio page, photo of owner Kathryn Roszko">
     </div>
     <div class="item">
-      <img class="imageBorder" src="cp4.png" alt="">
+      <img class="imageBorder" src="cp4.png" alt="shop page showing various mugs and plates">
     </div>
   </div>
 

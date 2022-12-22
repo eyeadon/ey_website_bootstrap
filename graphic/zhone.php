@@ -33,13 +33,13 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img class="imageBorder" src="zhone_brochure1.png" alt="">
+      <img class="imageBorder" src="zhone_brochure1.png" alt="brochure cover with line drawing graphics">
     </div>
     <div class="item">
-      <img class="imageBorder" src="zhone_brochure2.png" alt="">
+      <img class="imageBorder" src="zhone_brochure2.png" alt="brocure interior with line drawing graphics">
     </div>
     <div class="item">
-      <img class="imageBorder" src="zhone_brochure3.png" alt="">
+      <img class="imageBorder" src="zhone_brochure3.png" alt="brocure interior, image of doctor and nurse talking, medical icons">
     </div>
   </div>
 
@@ -80,13 +80,13 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img class="imageBorder" src="zhone_news1.png" alt="">
+      <img class="imageBorder" src="zhone_news1.png" alt="newsletter cover with line drawing graphics">
     </div>
     <div class="item">
-      <img class="imageBorder" src="zhone_news2.png" alt="">
+      <img class="imageBorder" src="zhone_news2.png" alt="newsletter interior, image of man juggling icons of home, money, breifcase">
     </div>
     <div class="item">
-      <img class="imageBorder" src="zhone_poster.png" alt="">
+      <img class="imageBorder" src="zhone_poster.png" alt="poster, illustration of airplane flying">
     </div>
   </div>
 

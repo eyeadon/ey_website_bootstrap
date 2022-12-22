@@ -34,16 +34,16 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img class="imageBorder" src="scontz1.png" alt="">
+      <img class="imageBorder" src="scontz1.png" alt="webpage layout with grid of paintings and photos of people and animals">
     </div>
     <div class="item">
-      <img class="imageBorder" src="scontz2.png" alt="">
+      <img class="imageBorder" src="scontz2.png" alt="webpage layout showing fantasy paintings and music preview buttons">
     </div>
     <div class="item">
-      <img class="imageBorder" src="scontz3.png" alt="">
+      <img class="imageBorder" src="scontz3.png" alt="webpage layout with video of bell ringing, portrait of guitar player">
     </div>
     <div class="item">
-      <img class="imageBorder" src="scontz4.png" alt="">
+      <img class="imageBorder" src="scontz4.png" alt="photo gallery with many images of nature scenes and animals">
     </div>
   </div>
 

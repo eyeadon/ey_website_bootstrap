@@ -16,7 +16,7 @@
 		  <!-- <p><a href="#" target="_blank">My R&eacute;sum&eacute;</a></p> -->
         </div>    
         <div class="col-md-3">
-		  <img src="images/evan.jpg" alt="evan" class="img-responsive" />
+		  <img src="images/evan-portrait1.jpeg" alt="evan smiling by an ocean scene" class="img-responsive" />
         </div>
       </div>
       <div class="row bottomPadding">

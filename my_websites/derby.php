@@ -32,10 +32,10 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img class="imageBorder" src="derby1.png" alt="">
+      <img class="imageBorder" src="derby1.png" alt="webpage layout with photo of roller derby skaters racing">
     </div>
     <div class="item">
-      <img class="imageBorder" src="derby2.png" alt="">
+      <img class="imageBorder" src="derby2.png" alt="webpage layout with illustration of skater and various protective equipment">
     </div>
   </div>
 

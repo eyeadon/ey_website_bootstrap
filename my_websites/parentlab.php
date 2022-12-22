@@ -35,19 +35,19 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img class="imageBorder" src="parentlab1.png" alt="">
+      <img class="imageBorder" src="parentlab1.png" alt="webpage layout with photos of chemistry lab">
     </div>
     <div class="item">
-      <img class="imageBorder" src="parentlab2.png" alt="">
+      <img class="imageBorder" src="parentlab2.png" alt="webpage layout showing chemistry processes">
     </div>
     <div class="item">
-      <img class="imageBorder" src="parentlab3.png" alt="">
+      <img class="imageBorder" src="parentlab3.png" alt="webpage layout showing chemistry processes">
     </div>
     <div class="item">
-      <img class="imageBorder" src="parentlab4.png" alt="">
+      <img class="imageBorder" src="parentlab4.png" alt="image gallery of chemistry equipment">
     </div>
     <div class="item">
-      <img class="imageBorder" src="parentlab5.png" alt="">
+      <img class="imageBorder" src="parentlab5.png" alt="bio page with photo of Alex Parent">
     </div>
   </div>
 

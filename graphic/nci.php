@@ -34,16 +34,16 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img class="imageBorder" src="nci_brochure1.png" alt="">
+      <img class="imageBorder" src="nci_brochure1.png" alt="brochure cover showing doctors and nurses smiling, sunflower images">
     </div>
     <div class="item">
-      <img class="imageBorder" src="nci_brochure2.png" alt="">
+      <img class="imageBorder" src="nci_brochure2.png" alt="brochure showing employees at trade show booth and sunflowers">
     </div>
     <div class="item">
-      <img class="imageBorder" src="nci_brochure3.png" alt="">
+      <img class="imageBorder" src="nci_brochure3.png" alt="brochure interior with nurse smiling">
     </div>
     <div class="item">
-      <img class="imageBorder" src="nci_brochure4.png" alt="">
+      <img class="imageBorder" src="nci_brochure4.png" alt="table of employee benefit options">
     </div>
   </div>
 
@@ -69,7 +69,7 @@
           <p>Objective: Collect graphic elements from past communications and build a complete identity for the Nevada Cancer Institute Benefits Department. Use sunflower images and uplifting color scheme. Select dynamic employee photos and add to the Employee Benefits Guide. Increase employee benefits enrollment, health program participation, and overall healthcare education.</p>
         </div>
         <div class="col-md-6">
-        <img src="nci_letter.jpg" class="img-responsive topPadding" alt="nci_letter">
+        <img src="nci_letter.jpg" class="img-responsive topPadding" alt="letterhead and pamphlet using sunflower image">
         </div>
       </div>
     </div> <!-- /container -->

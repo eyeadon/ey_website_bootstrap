@@ -34,16 +34,16 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img class="imageBorder" src="sonic_news1.png" alt="">
+      <img class="imageBorder" src="sonic_news1.png" alt="newsletter cover showing Sonic restaurant and drive in sign">
     </div>
     <div class="item">
-      <img class="imageBorder" src="sonic_news2.png" alt="">
+      <img class="imageBorder" src="sonic_news2.png" alt="newsletter interior, order buttons and kid drinking milkshake">
     </div>
     <div class="item">
-      <img class="imageBorder" src="sonic_news3.png" alt="">
+      <img class="imageBorder" src="sonic_news3.png" alt="newsletter interior, raspberry soda splashing">
     </div>
     <div class="item">
-      <img class="imageBorder" src="sonic_tab1.png" alt="">
+      <img class="imageBorder" src="sonic_tab1.png" alt="tabloid size newsletter with table of contents showing food items">
     </div>
   </div>
 
@@ -69,7 +69,7 @@
           <p>Objective: Communicate benefits choices to Sonic employees in a fun and energetic way. Utilize a Sonic menu motif throughout all communications. Ensure each page is filled with Sonic's unique iconography. Increase employee benefits enrollment, health program participation, and overall healthcare education.</p>
         </div>
         <div class="col-md-4">
-        <img src="sonic_env.gif" class="img-responsive topPadding" alt="sonic envelope">
+        <img src="sonic_env.gif" class="img-responsive topPadding" alt="sonic envelope with waitress on roller skates">
         </div>
       </div>
     </div> <!-- /container -->

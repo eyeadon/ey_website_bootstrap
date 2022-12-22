@@ -15,17 +15,17 @@
     <div class="container topMargin">
       <div class="row rowPadding">
         <div class="col-md-4">
-          <a href="my_websites.php"><img src="my_websites/umass_home.png" class="img-responsive img-rounded imageBorder" alt="Web Development"></a>
+          <a href="my_websites.php"><img src="my_websites/umass_home.png" class="img-responsive img-rounded imageBorder" alt="website layout"></a>
           <h2>Web Development</h2>
           <p><a class="btn btn-default" href="my_websites.php" role="button">View &raquo;</a></p>
         </div>
         <div class="col-md-4">
-          <a href="graphic.php"><img src="graphic/zhone_home.png" class="img-responsive img-rounded imageBorder" alt="graphic design"></a>
+          <a href="graphic.php"><img src="graphic/zhone_home.png" class="img-responsive img-rounded imageBorder" alt="brochure with line drawing graphics"></a>
           <h2>Graphic Design</h2>
           <p><a class="btn btn-default" href="graphic.php" role="button">View &raquo;</a></p>
         </div>
         <div class="col-md-4">
-          <a href="illustration.php"><img src="illustration/squares_b.png" class="img-responsive img-rounded imageBorder" alt="illustration"></a>
+          <a href="illustration.php"><img src="illustration/squares_b.png" class="img-responsive img-rounded imageBorder" alt="geometric composition"></a>
           <h2>Illustration</h2>
           <p><a class="btn btn-default" href="illustration.php" role="button">View &raquo;</a></p>
         </div>

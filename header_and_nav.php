@@ -1,6 +1,6 @@
 <div class="fullwidthHeader">
     <div class="container topHeader">
-      <a href="<?php echo $upOutOfFolder; ?>index.php"><img src="<?php echo $upOutOfFolder; ?>images/ey_logo.png" class="img-responsive" alt="ey logo"></a>
+      <a href="<?php echo $upOutOfFolder; ?>index.php"><img src="<?php echo $upOutOfFolder; ?>images/ey_logo.png" class="img-responsive" alt="evan yeadon graffiti logo"></a>
     </div>
     </div>
 

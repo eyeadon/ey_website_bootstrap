@@ -34,16 +34,16 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img class="imageBorder" src="umass-newsletter1.png" alt="">
+      <img class="imageBorder" src="umass-newsletter1.png" alt="newsletter webpage layout showing people and spring UMass campus">
     </div>
     <div class="item">
-      <img class="imageBorder" src="umass-newsletter2.png" alt="">
+      <img class="imageBorder" src="umass-newsletter2.png" alt="newsletter webpage layout showing graduating students, portraits of researchers">
     </div>
     <div class="item">
-      <img class="imageBorder" src="umass-tweet-blitz.png" alt="">
+      <img class="imageBorder" src="umass-tweet-blitz.png" alt="newsletter webpage layout showing portraits of researchers and research posters">
     </div>
     <div class="item">
-      <img class="imageBorder" src="umass-about-page.png" alt="">
+      <img class="imageBorder" src="umass-about-page.png" alt="about page with grid of employees and their contacts">
     </div>
   </div>
 

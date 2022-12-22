@@ -33,13 +33,13 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img class="imageBorder" src="msw_brochure1.png" alt="">
+      <img class="imageBorder" src="msw_brochure1.png" alt="brochure with globe showing USA">
     </div>
     <div class="item">
-      <img class="imageBorder" src="msw_brochure2.png" alt="">
+      <img class="imageBorder" src="msw_brochure2.png" alt="brochure with text quotes and image of handshaking">
     </div>
     <div class="item">
-      <img class="imageBorder" src="msw_brochure3.png" alt="">
+      <img class="imageBorder" src="msw_brochure3.png" alt="brochure with text bullet points and image of key">
     </div>
   </div>
 

@@ -23,8 +23,8 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-        <img class="img-responsive bottomPadding center-block" src="bwjewelry1.jpg" alt="">
-        <img class="img-responsive topPadding center-block" src="bw_logo.gif" alt="">
+        <img class="img-responsive bottomPadding center-block" src="bwjewelry1.jpg" alt="trade show display showing jewelry">
+        <img class="img-responsive topPadding center-block" src="bw_logo.gif" alt="Beyond Words Jewelry logo with star shapes">
         </div>
       </div>
       <div class="row bottomPadding">

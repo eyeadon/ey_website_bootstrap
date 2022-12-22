@@ -33,13 +33,13 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img class="imageBorder" src="hiphop1.png" alt="">
+      <img class="imageBorder" src="hiphop1.png" alt="webpage layout with Hip Hop dancer on city street, icons of various dance moves">
     </div>
     <div class="item">
-      <img class="imageBorder" src="hiphop2.png" alt="">
+      <img class="imageBorder" src="hiphop2.png" alt="webpage layout with Hip Hop dancer on city street, icons of various dance moves">
     </div>
     <div class="item">
-      <img class="imageBorder" src="hiphop3.png" alt="">
+      <img class="imageBorder" src="hiphop3.png" alt="webpage layout with photos of Hip Hop dancers performing various dance moves">
     </div>
   </div>
 

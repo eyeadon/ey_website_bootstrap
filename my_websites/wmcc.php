@@ -36,22 +36,22 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img class="imageBorder" src="wmcc1.png" alt="">
+      <img class="imageBorder" src="wmcc1.png" alt="webpage layout showing rock climbing and cliffs">
     </div>
     <div class="item">
-      <img class="imageBorder" src="wmcc2.png" alt="">
+      <img class="imageBorder" src="wmcc2.png" alt="webpage layout with grid of photos of rock climbing">
     </div>
     <div class="item">
-      <img class="imageBorder" src="wmcc3.png" alt="">
+      <img class="imageBorder" src="wmcc3.png" alt="membership page, photo of trail maintainers at a cliff">
     </div>
     <div class="item">
-      <img class="imageBorder" src="wmcc4.png" alt="">
+      <img class="imageBorder" src="wmcc4.png" alt="shop page, images of t-shirts and books">
     </div>
     <div class="item">
-      <img class="imageBorder" src="wmcc5.png" alt="">
+      <img class="imageBorder" src="wmcc5.png" alt="photo gallery with many photos of rock climbers on cliffs and boulders">
     </div>
     <div class="item">
-      <img class="imageBorder" src="wmcc6.png" alt="">
+      <img class="imageBorder" src="wmcc6.png" alt="webpage with many social media posts, images of climbers and trails">
     </div>
   </div>
 
