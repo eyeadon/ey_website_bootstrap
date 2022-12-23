@@ -62,14 +62,14 @@ img9off.src = "images/dip3_off.png";
 } 
 
 function imgAct(imgName) { 
-if (br == "n3") { 
-document[imgName].src = eval(imgName + "on.src"); 
+  if (br == "n3") { 
+  document[imgName].src = eval(imgName + "on.src"); 
 } 
 } 
 
 function imgInact(imgName) { 
-if (br == "n3") { 
-document[imgName].src = eval(imgName + "off.src"); 
+  if (br == "n3") { 
+  document[imgName].src = eval(imgName + "off.src"); 
 } 
 } 
 
@@ -101,7 +101,7 @@ $('#gallery img').each(function(i) {
 		 			
 			 //create HTML for new image
 			 var newImage = $('<img src="' + imgPath +'">');
-			 //make new image invisible
+			 //make new image invisible (before fadeIn)
 			 newImage.hide();
 			 //add to the #photo div
 			 $('#photo').prepend(newImage);
