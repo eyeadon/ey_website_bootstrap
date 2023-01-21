@@ -4,10 +4,10 @@
   require_once('../head1_meta.php');
 ?>
 
-  <meta name="description" content="">
-  <meta name="keywords" content="">
-  <meta name="author" content="Evan Yeadon">
-  <title>Evan Yeadon | </title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="Evan Yeadon">
+    <title>Evan Yeadon | </title>
 
 <?php
   require_once('../head2_link.php');
