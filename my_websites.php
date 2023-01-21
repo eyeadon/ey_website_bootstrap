@@ -39,7 +39,7 @@
           <p><a class="btn btn-default" href="my_websites/cyclepottery.php" role="button">View &raquo;</a></p>
         </div>
         <div class="col-md-6">
-          <a href="my_websites/scontz_thompson.php"><img src="my_websites/scontz_home.png" class="img-responsive img-rounded imageBorder" alt="webpage layout showing face made out of plants"></a>
+          <a href="my_websites/scontz_thompson.php"><img src="my_websites/scontz_home3.png" class="img-responsive img-rounded imageBorder" alt="webpage layout showing child looking out at ocean"></a>
           <h3>Scontz Thompson Music</h3>
           <p><a class="btn btn-default" href="my_websites/scontz_thompson.php" role="button">View &raquo;</a></p>
         </div>
