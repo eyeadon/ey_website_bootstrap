@@ -38,6 +38,7 @@
     <li data-target="#carousel-scontz" data-slide-to="1"></li>
     <li data-target="#carousel-scontz" data-slide-to="2"></li>
     <li data-target="#carousel-scontz" data-slide-to="3"></li>
+    <li data-target="#carousel-scontz" data-slide-to="4"></li>
   </ol>
 
   <!-- Wrapper for slides -->
@@ -46,7 +47,10 @@
       <img class="imageBorder" src="scontz1.png" alt="webpage layout with grid of paintings and photos of people and animals">
     </div>
     <div class="item">
-      <img class="imageBorder" src="scontz2.png" alt="webpage layout showing fantasy paintings and music preview buttons">
+      <img class="imageBorderWhite" src="scontz2.png" alt="webpage layout showing fantasy paintings and music preview buttons">
+    </div>
+    <div class="item">
+      <img class="imageBorderWhite" src="scontz5.png" alt="webpage layout showing fantasy paintings and music preview buttons">
     </div>
     <div class="item">
       <img class="imageBorder" src="scontz3.png" alt="webpage layout with video of bell ringing, portrait of guitar player">

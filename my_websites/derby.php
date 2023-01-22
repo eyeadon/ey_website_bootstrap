@@ -36,6 +36,7 @@
   <ol class="carousel-indicators">
     <li data-target="#carousel-derby" data-slide-to="0" class="active"></li>
     <li data-target="#carousel-derby" data-slide-to="1"></li>
+    <li data-target="#carousel-derby" data-slide-to="2"></li>
   </ol>
 
   <!-- Wrapper for slides -->
@@ -45,6 +46,9 @@
     </div>
     <div class="item">
       <img class="imageBorder" src="derby2.png" alt="webpage layout with illustration of skater and various protective equipment">
+    </div>
+    <div class="item">
+      <img class="imageBorder" src="derby3.png" alt="webpage layout with illustration of skater and various protective equipment">
     </div>
   </div>
 

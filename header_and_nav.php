@@ -1,8 +1,8 @@
-<div class="fullwidthHeader">
+  <div class="fullwidthHeader">
     <div class="container topHeader">
       <a href="<?php echo $upOutOfFolder; ?>index.php"><img src="<?php echo $upOutOfFolder; ?>images/ey_logo.png" class="img-responsive" alt="evan yeadon graffiti logo"></a>
     </div>
-    </div>
+  </div>
 
     <nav class="navbar navbar-default navbar-static-top">
       <div class="container">
