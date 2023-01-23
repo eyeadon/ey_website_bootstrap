@@ -5,7 +5,7 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="Evan Yeadon">
-    <title>Evan Yeadon | </title>
+    <title>Evan Yeadon | Graphic Design</title>
 
 <?php
   require_once('head2_link.php');
