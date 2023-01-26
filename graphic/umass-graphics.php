@@ -76,7 +76,7 @@
           <h2>Dept. of Psychological and Brain Sciences Communications</h2>
           <h3>Products: Homecoming Open House Promos, Clinical Psychology Event Promos</h3>
           <h3>Role: Graphic Designer</h3>
-          <p></p>
+          <p>Crafted effective graphic designs for web, email, print, and social media content, utilizing photo editing/retouching and vector illustration techniques.</p>
         </div>
       </div>
     </div> <!-- /container -->

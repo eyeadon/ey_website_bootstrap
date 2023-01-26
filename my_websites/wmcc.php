@@ -81,9 +81,10 @@
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
           <h2>Website Redesign and Build</h2>
-          <h3>Products: Responsive WordPress Website, WooCommerce Store, Membership/Donation Links</h3>
+          <h3>Products: Responsive WordPress Website, WooCommerce Store, Membership/Donation Capabilities</h3>
           <h3>Role: Web Designer/Developer</h3>
           <p><a class="btn btn-primary" href="http://www.climbgneiss.org/" role="button" target="_blank">View Website &raquo;</a></p>
+          <p>Created and supported current WordPress website for the WMCC, an organization centered around rock climbing access and environmental conservation. Established plans for an online store and membership/donation capabilities, implemented solutions using WordPress plugins and third-party services. Helped with fundraisers by creating web landing pages and donation links. Posted content including news stories, action photos, and promos for community events. Ensured website was running fast, secure, and up-to-date.</p>
         </div>
       </div>
     </div> <!-- /container -->

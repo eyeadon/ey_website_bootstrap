@@ -72,10 +72,13 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-          <h2>Dept. of Psychological and Brain Sciences<br />Website Administration</h2>
+          <h2>Dept. of Psychological and Brain Sciences (PBS)<br />Website Administration</h2>
           <h3>Products: Newsletter Microsites, Page Layouts and Views, Content Updates</h3>
           <h3>Role: Web Designer/Developer</h3>
           <p><a class="btn btn-primary" href="https://www.pbs.umass.edu/about/newsletters/spring-2022-newsletter" role="button" target="_blank">View Website &raquo;</a></p>
+          <p>Co-administered the PBS website using Drupal, performing organizational improvements and creating new pages/sections based on department needs. This included building views, blocks, webforms, and content types.</p>
+          <p>I constructed newsletter microsites, housing collections of recent news and research in an easy to navigate family of pages. I also produced responsive CSS-based column layouts for newsletter and general site pages, adding greater flexibility to page designs.</p>
+          <p>Other tasks included customizing website taxonomy to track content and data entered into the site, and training department users in profile editing.</p>
         </div>
       </div>
     </div> <!-- /container -->
