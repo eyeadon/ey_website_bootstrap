@@ -1,4 +1,5 @@
 <?php
+  $upOutOfFolder = '';
   require_once('head1_meta.php');
 ?>
 

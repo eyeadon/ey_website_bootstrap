@@ -1,5 +1,6 @@
 <?php
-  require_once('head1_meta.php');
+    $upOutOfFolder = '';
+    require_once('head1_meta.php');
 ?>
 
     <meta name="description" content="">
