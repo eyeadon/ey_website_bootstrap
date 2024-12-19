@@ -21,9 +21,13 @@
       <div class="container topPaddingHome">
         <p>Welcome to Evan Yeadon's online portfolio</p>
       </div>
-    </div>
-
+    </div> 
+    
+    
     <div class="container topMargin">
+      <div class="m-1">
+        <a href="https://github.com/eyeadon" target="_blank"><img src="images/github-logo-40.png" class="float-left" alt="github cat logo"></a> <a href="https://github.com/eyeadon" stytarget="_blank">My GitHub</a>
+      </div>
       <div class="row rowPadding">
       <div class="col-md-4">
           <a href="web_apps.php"><img src="web_apps/watcha-bringing-home.png" class="img-responsive img-rounded imageBorder" alt="web event form"></a>
