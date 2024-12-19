@@ -32,7 +32,7 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-        <img class="img-responsive bottomPadding center-block" src="watcha-bringing-screen-900.png" alt="event web form">
+        <a href="https://watcha-bringing.vercel.app/" target="_blank"><img class="img-responsive bottomPadding center-block imageBorder" src="watcha-bringing-screen-900.png" alt="event web form"></a>
         </div>
       </div>
       <div class="row bottomPadding">

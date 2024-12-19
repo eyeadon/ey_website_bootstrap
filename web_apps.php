@@ -22,7 +22,7 @@
     
     <div class="row rowPadding">
         <div class="col-md-6">
-          <a href="web_apps/watcha_bringing.php"><img src="web_apps/watcha_bringing_home.png" class="img-responsive img-rounded imageBorder" alt="event web form"></a>
+          <a href="web_apps/watcha_bringing.php"><img src="web_apps/watcha-bringing-home.png" class="img-responsive img-rounded imageBorder" alt="event web form"></a>
           <h3>Watcha Bringing</h3>
           <p><a class="btn btn-default" href="web_apps/watcha_bringing.php" role="button">View &raquo;</a></p>
         </div>
