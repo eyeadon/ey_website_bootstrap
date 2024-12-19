@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="Evan Yeadon">
-    <title>Evan Yeadon | Web Development</title>
+    <title>Evan Yeadon | Websites</title>
 
 <?php
   require_once('head2_link.php');
@@ -18,7 +18,7 @@
 <!-- Main Content -->
 <div class="container">
     
-    <h1>Web Development</h1>
+    <h1>Websites</h1>
     
     <div class="row rowPadding">
         <div class="col-md-6">

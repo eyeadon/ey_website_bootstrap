@@ -27,7 +27,7 @@
   	      <li class="active">Beyond Words Jewelry</li>
         </ol>
       </div>
-    </div> <!-- /container -->
+    </div> 
 
     <div class="container">
       <div class="row bottomPadding">

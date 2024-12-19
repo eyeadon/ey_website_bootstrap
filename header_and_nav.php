@@ -16,8 +16,9 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="<?php echo $upOutOfFolder; ?>my_websites.php">Web Development</a></li>
-            <li><a href="<?php echo $upOutOfFolder; ?>graphic.php">Graphic Design</a></li>
+          <li><a href="<?php echo $upOutOfFolder; ?>web_apps.php">Web Apps</a></li>
+          <li><a href="<?php echo $upOutOfFolder; ?>my_websites.php">Websites</a></li>
+          <li><a href="<?php echo $upOutOfFolder; ?>graphic.php">Graphic Design</a></li>
             <li><a href="<?php echo $upOutOfFolder; ?>illustration.php">Illustration</a></li>
             <li><a href="<?php echo $upOutOfFolder; ?>contact.php">Contact</a></li>
           </ul>

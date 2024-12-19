@@ -25,9 +25,14 @@
 
     <div class="container topMargin">
       <div class="row rowPadding">
+      <div class="col-md-4">
+          <a href="web_apps.php"><img src="web_apps/watcha_bringing_home.png" class="img-responsive img-rounded imageBorder" alt="web event form"></a>
+          <h2>React/Node Web Apps</h2>
+          <p><a class="btn btn-default" href="web_apps.php" role="button">View &raquo;</a></p>
+        </div>
         <div class="col-md-4">
           <a href="my_websites.php"><img src="my_websites/umass_home.png" class="img-responsive img-rounded imageBorder" alt="website layout"></a>
-          <h2>Web Development</h2>
+          <h2>Websites</h2>
           <p><a class="btn btn-default" href="my_websites.php" role="button">View &raquo;</a></p>
         </div>
         <div class="col-md-4">
@@ -35,13 +40,20 @@
           <h2>Graphic Design</h2>
           <p><a class="btn btn-default" href="graphic.php" role="button">View &raquo;</a></p>
         </div>
-        <div class="col-md-4">
+      </div>
+      
+      <div class="row rowPadding">
+      <div class="col-md-4">
           <a href="illustration.php"><img src="illustration/squares_b.png" class="img-responsive img-rounded imageBorder" alt="geometric composition"></a>
           <h2>Illustration</h2>
           <p><a class="btn btn-default" href="illustration.php" role="button">View &raquo;</a></p>
         </div>
+        <div class="col-md-4">
+        </div>
+        <div class="col-md-4">
+        </div>
       </div>
-      
+
     </div> <!-- /container -->
 
 <!-- End Main Content -->

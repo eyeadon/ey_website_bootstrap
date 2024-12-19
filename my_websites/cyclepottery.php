@@ -23,7 +23,7 @@
       </div>
       <div class="pull-right">
         <ol class="breadcrumb">
-  	      <li><a href="../my_websites.php">Web Development</a></li>
+  	      <li><a href="../my_websites.php">Websites</a></li>
   	      <li class="active">CyclePottery</li>
         </ol>
       </div>

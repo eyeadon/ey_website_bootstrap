@@ -26,7 +26,7 @@ require_once('header_and_nav.php');
         <p><a href="docs/Evan_Yeadon_Resume.pdf" target="_blank">R&eacute;sum&eacute;</a></p>
       </div>
       <div class="col-md-offset-1 col-md-4">
-        <img src="images/evan-portrait1.jpeg" alt="evan smiling by an ocean scene" class="img-responsive" />
+        <img src="images/evan-portrait.jpg" alt="evan smiling by an ocean scene" class="img-responsive" />
       </div>
 
     </div>
@@ -53,7 +53,7 @@ require_once('header_and_nav.php');
       </div>
       <div class="col-md-offset-1 col-md-4">
         <p><strong>TOOLS:</strong><br />
-          <strong>Programming Languages/Technologies: </strong>HTML, CSS, JavaScript, React, Node.js, jQuery, PHP, Git
+          <strong>Programming Languages/Technologies: </strong>HTML, CSS, Bootstrap, JavaScript, Typescript, React, Node.js, jQuery, PHP, Git
         </p>
         <p><strong>Software: </strong>Adobe Creative Suite (Acrobat, Illustrator, InDesign, Photoshop, Premiere), Google
           Workspace, Marketing Cloud, Microsoft Office (Excel, PowerPoint, Word, Teams), Visual Studio Code, Zoom. Mac
