@@ -26,7 +26,7 @@ require_once('header_and_nav.php');
         <p><a href="docs/Evan_Yeadon_Resume.pdf" target="_blank">R&eacute;sum&eacute;</a></p>
       </div>
       <div class="col-md-offset-1 col-md-4">
-        <img src="images/evan-portrait.jpg" alt="evan smiling by an ocean scene" class="img-responsive" />
+        <img src="images/evan-portrait.jpg" alt="evan smiling by an ocean scene" class="" width="180px" />
       </div>
 
     </div>
