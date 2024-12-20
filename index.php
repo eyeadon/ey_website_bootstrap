@@ -26,7 +26,7 @@
     
     <div class="container topMargin">
       <div class="m-1">
-        <a href="https://github.com/eyeadon" target="_blank"><img src="images/github-logo-40.png" class="float-left" alt="github cat logo"></a> <a href="https://github.com/eyeadon" stytarget="_blank">My GitHub</a>
+        <a href="https://github.com/eyeadon" target="_blank"><img src="images/github-logo-40.png" class="float-left" alt="github cat logo"></a> <a href="https://github.com/eyeadon" target="_blank">My GitHub</a>
       </div>
       <div class="row rowPadding">
       <div class="col-md-4">
