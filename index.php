@@ -30,7 +30,7 @@
       </div>
       <div class="row rowPadding">
       <div class="col-md-4">
-          <a href="web_apps.php"><img src="web_apps/watcha-bringing-home.png" class="img-responsive img-rounded imageBorder" alt="web event form"></a>
+          <a href="web_apps.php"><img src="web_apps/whatcha-bringing-home.png" class="img-responsive img-rounded imageBorder" alt="web event form"></a>
           <h2>React/Node Web Apps</h2>
           <p><a class="btn btn-default" href="web_apps.php" role="button">View &raquo;</a></p>
         </div>

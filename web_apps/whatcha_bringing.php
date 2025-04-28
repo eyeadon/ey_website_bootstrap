@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="Evan Yeadon">
-    <title>Evan Yeadon | Watcha Bringing</title>
+    <title>Evan Yeadon | Whatcha Bringing</title>
 
 <?php
   require_once('../head2_link.php');
@@ -19,12 +19,12 @@
 <!-- Main Content -->
 <div class="container">
       <div class="pull-left">
-        <h1>Watcha Bringing</h1>
+        <h1>Whatcha Bringing</h1>
       </div>
       <div class="pull-right">
         <ol class="breadcrumb">
   	      <li><a href="../my_websites.php">Web Apps</a></li>
-  	      <li class="active">Watcha Bringing</li>
+  	      <li class="active">Whatcha Bringing</li>
         </ol>
       </div>
     </div> 
@@ -32,7 +32,7 @@
     <div class="container">
       <div class="row bottomPadding">
         <div class="col-md-8 col-md-offset-2">
-        <a href="https://watcha-bringing.vercel.app/" target="_blank"><img class="img-responsive bottomPadding center-block imageBorder" src="watcha-bringing-screen-900.png" alt="event web form"></a>
+        <a href="https://whatcha-bringing.vercel.app/" target="_blank"><img class="img-responsive bottomPadding center-block imageBorder" src="whatcha-bringing-screen-900.png" alt="event web form"></a>
         </div>
       </div>
       <div class="row bottomPadding">
@@ -40,7 +40,7 @@
         <h2>React Web App with Database</h2>
           <h3>Products: MongoDB/Express/React/Node (MERN), Responsive Design, Online Hosted Database</h3>
           <h3>Role: Web Designer/Developer</h3>
-          <p><a class="btn btn-primary" href="https://watcha-bringing.vercel.app/" role="button" target="_blank">View App &raquo;</a></p>
+          <p><a class="btn btn-primary" href="https://whatcha-bringing.vercel.app/" role="button" target="_blank">View App &raquo;</a></p>
           <p>I created this app to help people organize who is bringing what to a party. An event owner can create an event, and guests add dishes or beverages they will be bringing in a variety of categories. Users can view dish/beverage displays with sorting by category. I included date/time integration with selection menus in the event form as well as editing/deleting items and events. More functionality coming soon!</p>
         </div>
       </div>
