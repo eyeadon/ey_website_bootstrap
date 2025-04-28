@@ -41,7 +41,7 @@
           <h3>Products: MongoDB/Express/React/Node (MERN), Responsive Design, Online Hosted Database</h3>
           <h3>Role: Web Designer/Developer</h3>
           <p><a class="btn btn-primary" href="https://whatcha-bringing.vercel.app/" role="button" target="_blank">View App &raquo;</a></p>
-          <p>I created this app to help people organize who is bringing what to a party. An event owner can create an event, and guests add dishes or beverages they will be bringing in a variety of categories. Users can view dish/beverage displays with sorting by category. I included date/time integration with selection menus in the event form as well as editing/deleting items and events. More functionality coming soon!</p>
+          <p>I created this app to help people organize who is bringing what to a party. An event host can create an event, and guests add dishes or beverages they will be bringing in a variety of categories. Users can view dish/beverage displays with sorting by category. I included date/time integration with selection menus in the event creation form as well as the capability for users to edit/delete items they own. Log in for the full experience!</p>
         </div>
       </div>
     </div> <!-- /container -->
