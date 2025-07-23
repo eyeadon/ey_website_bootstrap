@@ -18,7 +18,7 @@
 <!-- Main Content -->
 <div class="container">
     
-    <h1>React/Node Web Apps</h1>
+    <h1>Web Apps</h1>
     
     <div class="row rowPadding">
         <div class="col-md-6">
@@ -27,6 +27,9 @@
           <p><a class="btn btn-default" href="web_apps/whatcha_bringing.php" role="button">View &raquo;</a></p>
         </div>
         <div class="col-md-6">
+          <a href="web_apps/game_hub.php"><img src="web_apps/game-hub-home.png" class="img-responsive img-rounded imageBorder" alt="game search app"></a>
+          <h3>Game Hub</h3>
+          <p><a class="btn btn-default" href="web_apps/game_hub.php" role="button">View &raquo;</a></p>
         </div>
       </div>
 
