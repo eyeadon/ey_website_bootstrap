@@ -53,7 +53,7 @@ require_once('header_and_nav.php');
       </div>
       <div class="col-md-offset-1 col-md-4">
         <p><strong>TOOLS:</strong><br />
-          <strong>Programming Languages/Technologies: </strong>HTML, CSS, Bootstrap, JavaScript, Typescript, React, Node.js, jQuery, PHP, Git
+          <strong>Programming Languages/Technologies: </strong>HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, MongoDB, MySQL, Jest, Java, Git, GitHub, Bootstrap, Tailwind CSS
         </p>
         <p><strong>Software: </strong>Adobe Creative Suite (Acrobat, Illustrator, InDesign, Photoshop, Premiere), Google
           Workspace, Marketing Cloud, Microsoft Office (Excel, PowerPoint, Word, Teams), Visual Studio Code, Zoom. Mac
