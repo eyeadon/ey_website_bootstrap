@@ -1,5 +1,5 @@
 <?php
-  $upOutOfFolder = '';
+  $parentDirectory = '';
   require_once('head1_meta.php');
 ?>
 

@@ -4,8 +4,8 @@
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="<?php echo $upOutOfFolder; ?>js/bootstrap.min.js"></script>
-<script src="<?php echo $upOutOfFolder; ?>activeState.js"></script>
+<script src="<?php echo $parentDirectory; ?>js/bootstrap.min.js"></script>
+<script src="<?php echo $parentDirectory; ?>activeState.js"></script>
 <script>  
   function setFooterStyle() {
     var docHeight = $(window).height();

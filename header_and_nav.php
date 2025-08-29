@@ -1,6 +1,6 @@
   <div class="fullwidthHeader">
     <div class="container topHeader">
-      <a href="<?php echo $upOutOfFolder; ?>index.php"><img src="<?php echo $upOutOfFolder; ?>images/ey_logo.png" class="img-responsive" alt="evan yeadon graffiti logo"></a>
+      <a href="<?php echo $parentDirectory; ?>index.php"><img src="<?php echo $parentDirectory; ?>images/ey_logo.png" class="img-responsive" alt="evan yeadon graffiti logo"></a>
     </div>
   </div>
 
@@ -16,11 +16,11 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-          <li><a href="<?php echo $upOutOfFolder; ?>web_apps.php">Web Apps</a></li>
-          <li><a href="<?php echo $upOutOfFolder; ?>my_websites.php">Websites</a></li>
-          <li><a href="<?php echo $upOutOfFolder; ?>graphic.php">Graphic Design</a></li>
-            <li><a href="<?php echo $upOutOfFolder; ?>illustration.php">Illustration</a></li>
-            <li><a href="<?php echo $upOutOfFolder; ?>contact.php">Contact</a></li>
+          <li><a href="<?php echo $parentDirectory; ?>web_apps.php">Web Apps</a></li>
+          <li><a href="<?php echo $parentDirectory; ?>my_websites.php">Websites</a></li>
+          <li><a href="<?php echo $parentDirectory; ?>graphic.php">Graphic Design</a></li>
+            <li><a href="<?php echo $parentDirectory; ?>illustration.php">Illustration</a></li>
+            <li><a href="<?php echo $parentDirectory; ?>contact.php">Contact</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div><!--/.container -->
