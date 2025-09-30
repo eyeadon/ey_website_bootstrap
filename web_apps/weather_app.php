@@ -32,7 +32,7 @@
         <div class="container">
           <div class="row bottomPadding">
             <div class="col-md-8 col-md-offset-2">
-            <a href="https://weather-widget-lemon.vercel.app" target="_blank"><img class="img-responsive center-block imageBorder" src="weather-app-screen.png" alt="local weather and air quality readings"></a>
+            <a href="https://weather-widget-lemon.vercel.app" target="_blank"><img class="img-responsive center-block" src="weather-app-screen.png" alt="local weather and air quality readings"></a>
             </div>
           </div>
           <div class="row bottomPadding">

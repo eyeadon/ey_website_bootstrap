@@ -14,27 +14,72 @@
 ?>
   
 <body>
-
-<!-- Main Content -->
-<div class="container">
-    
+  <!-- Main Content -->
+  <div class="container">
     <h1>Web Apps</h1>
-    
-    <div class="row rowPadding">
-        <div class="col-md-6">
-          <a href="web_apps/whatcha_bringing.php"><img src="web_apps/whatcha-bringing-home.png" class="img-responsive img-rounded imageBorder" alt="event web form"></a>
-          <h3>Whatcha Bringing</h3>
-          <p><a class="btn btn-default" href="web_apps/whatcha_bringing.php" role="button">View &raquo;</a></p>
-        </div>
-        <div class="col-md-6">
-          <a href="web_apps/game_hub.php"><img src="web_apps/game-hub-home.png" class="img-responsive img-rounded imageBorder" alt="game search app"></a>
-          <h3>Game Hub</h3>
-          <p><a class="btn btn-default" href="web_apps/game_hub.php" role="button">View &raquo;</a></p>
-        </div>
-      </div>
 
-    </div> <!-- /container -->
-<!-- End Main Content -->
+    <div class="row rowPadding">
+      <div class="col-md-6">
+        <a href="web_apps/whatcha_bringing.php"
+          ><img
+            src="web_apps/whatcha-bringing-home.png"
+            class="img-responsive img-rounded imageBorder"
+            alt="event web form"
+        /></a>
+        <h3>Whatcha Bringing</h3>
+        <p>
+          <a class="btn btn-default" href="web_apps/whatcha_bringing.php" role="button"
+            >View &raquo;</a
+          >
+        </p>
+      </div>
+      <div class="col-md-6">
+        <a href="web_apps/game_hub.php"
+          ><img
+            src="web_apps/game-hub-home.png"
+            class="img-responsive img-rounded imageBorder"
+            alt="game search app"
+        /></a>
+        <h3>Game Hub</h3>
+        <p>
+          <a class="btn btn-default" href="web_apps/game_hub.php" role="button">View &raquo;</a>
+        </p>
+      </div>
+    </div>
+
+        <div class="row rowPadding">
+      <div class="col-md-6">
+        <a href="web_apps/issue_tracker.php"
+          ><img
+            src="web_apps/issue-tracker-home.png"
+            class="img-responsive img-rounded imageBorder"
+            alt="graphs showing amount of open bugs / issues"
+        /></a>
+        <h3>Issue Tracker</h3>
+        <p>
+          <a class="btn btn-default" href="web_apps/issue_tracker.php" role="button"
+            >View &raquo;</a
+          >
+        </p>
+      </div>
+      <div class="col-md-6">
+        <a href="web_apps/weather_app.php"
+          ><img
+            src="web_apps/weather-app-home.png"
+            class="img-responsive img-rounded imageBorder"
+            alt="local weather and air quality readings"
+        /></a>
+        <h3>Weather and Air Quality App</h3>
+        <p>
+          <a class="btn btn-default" href="web_apps/weather_app.php" role="button">View &raquo;</a>
+        </p>
+      </div>
+    </div>
+
+    <!-- /container -->
+  </div>
+  <!-- End Main Content -->
+</body>
 
 <?php
   require_once('footer.php');
