@@ -37,8 +37,8 @@
           </div>
           <div class="row bottomPadding">
             <div class="col-md-8 col-md-offset-2">
-            <h2>Full Stack Web App with Database</h2>
-              <h3>Technologies: MongoDB/Express/React/Node (MERN), Bootstrap, Responsive Design, Online Hosted Database</h3>
+            <h2>Full Stack Web App</h2>
+              <h3>Technologies: MongoDB/Express/React/Node (MERN), Bootstrap, Responsive Design, Cloud-Hosted Database</h3>
               <h3>Role: Web Designer/Developer</h3>
               <p><a class="btn btn-primary" href="https://whatcha-bringing.onrender.com/" role="button" target="_blank">View App &raquo;</a></p>
               <p>I created this app to help people organize who is bringing what to a party. An event host can create an event, and guests add dishes or beverages they will be bringing in a variety of categories. Users can view dish/beverage displays with sorting by category. I included date/time integration with selection menus in the event creation form as well as the capability for users to edit/delete items they own. Log in for the full experience!</p>

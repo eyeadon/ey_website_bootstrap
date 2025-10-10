@@ -92,10 +92,9 @@
   <div class="container">
     <div class="row bottomPadding">
       <div class="col-md-8 col-md-offset-2">
-        <h2>Full Stack Web App with Database</h2>
+        <h2>Full Stack Web App</h2>
         <h3>
-          Technologies: Next.js, React, Tailwind CSS, Prisma, Responsive Design, Online
-          Hosted Database
+          Technologies: Next.js, React, Tailwind CSS, Prisma, PostgreSQL, Responsive Design, Cloud-Hosted Database
         </h3>
         <h3>Role: Web Designer/Developer</h3>
         <p>
@@ -108,7 +107,7 @@
           >
         </p>
         <p>
-          An app designed to track bugs/issues in a web development project. This app could be adapted for many other uses including project management. The homepage dashboard displays stats of Open, In Progress, and Closed issues and the latest entries. Issue lists with pagination can be filtered by status. Create, edit, and delete issues as well as assign issues to valid users stored in the database. Authenticated user log in.
+          An app designed to track bugs/issues in a web development project. The homepage dashboard displays stats of Open, In Progress, and Closed issues and the latest entries. Create, edit, and delete issues as well as assign issues to authenticated users stored in the database. Issue lists with pagination can be filtered by status and assigned user. Users can make comments on any issue. This app could be adapted for many other uses including project management.
         </p>
       </div>
     </div>
