@@ -16,10 +16,9 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-          <li><a href="<?php echo $parentDirectory; ?>web_apps.php">Web Apps</a></li>
-          <li><a href="<?php echo $parentDirectory; ?>my_websites.php">Websites</a></li>
-          <li><a href="<?php echo $parentDirectory; ?>graphic.php">Graphic Design</a></li>
-            <li><a href="<?php echo $parentDirectory; ?>illustration.php">Illustration</a></li>
+            <li><a href="<?php echo $parentDirectory; ?>web_apps.php">Web Apps</a></li>
+            <li><a href="<?php echo $parentDirectory; ?>my_websites.php">Websites</a></li>
+            <li><a href="<?php echo $parentDirectory; ?>graphic.php">Graphic Design</a></li>
             <li><a href="<?php echo $parentDirectory; ?>contact.php">Contact</a></li>
           </ul>
         </div><!--/.nav-collapse -->

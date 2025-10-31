@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="Evan Yeadon">
-    <title>Evan Yeadon | Web Development, Graphic Design, Illustration</title>
+    <title>Evan Yeadon | Web Development, Graphic Design</title>
 
 <?php
   require_once('head2_link.php');
@@ -29,7 +29,7 @@
         <a href="https://github.com/eyeadon" target="_blank"><img src="images/github-logo-40.png" class="float-left" alt="github cat logo"></a> <a href="https://github.com/eyeadon" target="_blank">My GitHub</a>
       </div>
       <div class="row rowPadding">
-      <div class="col-md-4">
+        <div class="col-md-4">
           <a href="web_apps.php"><img src="web_apps/whatcha-bringing-home.png" class="img-responsive img-rounded imageBorder" alt="web event form"></a>
           <h2>Web Apps</h2>
           <p><a class="btn btn-default" href="web_apps.php" role="button">View &raquo;</a></p>
@@ -46,17 +46,17 @@
         </div>
       </div>
       
-      <div class="row rowPadding">
-      <div class="col-md-4">
-          <a href="illustration.php"><img src="illustration/squares_b.png" class="img-responsive img-rounded imageBorder" alt="geometric composition"></a>
-          <h2>Illustration</h2>
-          <p><a class="btn btn-default" href="illustration.php" role="button">View &raquo;</a></p>
+      <!-- <div class="row rowPadding">
+        <div class="col-md-4">
+            <a href="illustration.php"><img src="illustration/squares_b.png" class="img-responsive img-rounded imageBorder" alt="geometric composition"></a>
+            <h2>Illustration</h2>
+            <p><a class="btn btn-default" href="illustration.php" role="button">View &raquo;</a></p>
         </div>
         <div class="col-md-4">
         </div>
         <div class="col-md-4">
         </div>
-      </div>
+      </div> -->
 
     </div> <!-- /container -->
 
