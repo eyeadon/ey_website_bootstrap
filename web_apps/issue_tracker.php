@@ -122,8 +122,6 @@
     </ul>
   </nav>
   <!-- End Main Content -->
-</body>
-
 
 <?php
   require_once('../footer.php');

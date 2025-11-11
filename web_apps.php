@@ -79,7 +79,6 @@
     <!-- /container -->
   </div>
   <!-- End Main Content -->
-</body>
 
 <?php
   require_once('footer.php');
