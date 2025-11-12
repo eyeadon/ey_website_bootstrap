@@ -1,6 +1,6 @@
 <?php
-    $parentDirectory = '';
-    require_once('head1_meta.php');
+  $parentDirectory = '';
+  require_once('head1_meta.php');
 ?>
 
     <meta name="description" content="">
@@ -8,13 +8,13 @@
     <meta name="author" content="Evan Yeadon">
     <title>Evan Yeadon | Web Apps</title>
 
-<?php
-  require_once('head2_link.php');
-  require_once('header_and_nav.php');
-?>
-  
+<?php require_once('head2_link.php'); ?>
+
 <body>
-  <!-- Main Content -->
+
+<?php require_once('header_and_nav.php'); ?>
+
+<!-- Main Content -->
   <div class="container">
     <h1>Web Apps</h1>
 
