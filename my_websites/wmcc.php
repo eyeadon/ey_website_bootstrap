@@ -9,12 +9,11 @@
     <meta name="author" content="Evan Yeadon">
     <title>Evan Yeadon | Western MA Climbers Coalition</title>
 
-<?php
-  require_once('../head2_link.php');
-  require_once('../header_and_nav.php');
-?>
+<?php require_once('../head2_link.php'); ?>
 
-  <body>
+<body>
+
+<?php require_once('../header_and_nav.php'); ?>
 
 <!-- Main Content -->
 <div class="container">
